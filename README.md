@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm **Yusuf** Android Developer currently located in Tokyo. 
+
+## ☕ How to reach me
+Reach me on [Twitter](https://twitter.com/yusufwagh)
+
 <!--
 **yusufwagh/yusufwagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
